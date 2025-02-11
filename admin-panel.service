@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/sh.azarian/git/nobino-admin-panel
+npm start

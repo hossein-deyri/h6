@@ -1,0 +1,26 @@
+{
+  "actors": [
+    1
+  ],
+  "ages": "OVER2YEARS",
+  "category": "Movie",
+  "countries": [
+    1
+  ],
+  "directors": [
+    1
+  ],
+  "forDeafs": true,
+  "imdb": "string",
+  "longDescription": "string",
+  "name": "string",
+  "ownerId": 1,
+  "productionYear": 2000,
+  "shortDescription": "string",
+  "slug": "string",
+  "status": "ACTIVE",
+  "tags": [
+    1467574849
+  ],
+  "translatedName": "string"
+}
